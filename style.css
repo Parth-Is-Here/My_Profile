@@ -1,0 +1,48 @@
+ #marg {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.logo {
+    height:70px;
+}
+
+#idlogo {
+    float: left;
+    width:25%;
+}
+
+.hobbies {
+    height:150px;
+    width:20%;
+    float:left;
+    text-align:center;
+    background-color:rgb(175, 194, 212);
+}
+
+.paratitles {
+    height:40px;
+    background-color: rgb(133, 105, 233);
+}
+.social {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    float: left;
+    width: 10%;
+}
+
+.symbol {
+    margin-top: 30px;
+}
+
+.fonting {
+    font-family: Lucida Sans ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    margin: auto;
+}
