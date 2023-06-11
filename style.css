@@ -10,8 +10,11 @@
 }
 
 #idlogo {
-    float: left;
     width:25%;
+}
+.flexing {
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .hobbies {
@@ -31,6 +34,10 @@
     margin-bottom: 50px;
     float: left;
     width: 10%;
+}
+
+.social:hover {
+    scale: 1.4;
 }
 
 .symbol {
