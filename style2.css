@@ -1,10 +1,26 @@
 .body {
     background-color: rgb(0, 0, 0);
 }
-.section1 {
+.section-1 , .part-of-sec-2 {
     display: flex;
 }
 .myName {
     padding-left: 350px;
     padding-top: 200px;
+}
+
+.location {
+    background-color: rgb(49, 49, 49);
+    height: 700px;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+.heading {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.myBio {
+    padding-left: 250px;
+    padding-right: 150px;
+    padding-top: 80px;
 }
