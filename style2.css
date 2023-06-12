@@ -1,3 +1,13 @@
 .body {
     background-color: rgb(0, 0, 0);
 }
+.section1 {
+    display: flex;
+}
+.myName {
+    padding-left: 350px;
+    padding-top: 200px;
+}
+.profilepic {
+
+}
