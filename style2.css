@@ -24,3 +24,26 @@
     padding-right: 150px;
     padding-top: 80px;
 }
+.part-of-sec-3 {
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.language-logo {
+    margin-left: 180px;
+}
+.language-logo:hover {
+    scale: 1.1;
+    background-color: rgb(26, 26, 26);
+}
+.logo-img {
+    height: 100px;
+}
+.about-skills {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+}
+.Section-5 {
+    background-color: rgb(70, 70, 70);
+}
