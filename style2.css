@@ -58,3 +58,14 @@
 .card-external {
     margin-left: 7.5%;
 }
+.footer {
+    display: flex;
+    margin-top: 50px;
+}
+.for-border {
+    border-left: 3px double #727272;
+}
+.footer > div {
+    padding-left: 100px;
+    padding-right: 100px;
+}
