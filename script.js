@@ -15,7 +15,3 @@ function changeMode(){
     let lang_logo_bg = document.querySelector('.part-of-sec-3');
     lang_logo_bg.classList.toggle('theme-part-sec-3');
 }
-
-function changeColor(){
-    
-}
