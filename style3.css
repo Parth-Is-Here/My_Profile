@@ -2,7 +2,7 @@
     background-color: rgb(255, 255, 255);
 }
 .map-light {
-    background-color: rgb(112, 253, 84);
+    background-color: white;
 }
 .profilee {
     background-image:url(Images/colorful.jpg);
@@ -14,5 +14,14 @@
     opacity: 0;
 }
 .theme-part-sec-3 {
-    background-color: aqua;
+    background-color:rgb(210, 224, 255);
+}
+.theme-part-sec-5 {
+    background-color: rgb(210, 224, 255);
+}
+.theme-socialdiv {
+    background-color: rgb(149, 183, 255);
+}
+.themeCardBody {
+    background-color: rgb(149, 183, 255);
 }

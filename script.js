@@ -14,4 +14,13 @@ function changeMode(){
 
     let lang_logo_bg = document.querySelector('.part-of-sec-3');
     lang_logo_bg.classList.toggle('theme-part-sec-3');
+
+    let footerBgTheme = document.querySelector('.Section-5');
+    footerBgTheme.classList.toggle('theme-part-sec-5');
+
+    let socialDiv = document.querySelector('.social-div');
+    socialDiv.classList.toggle('theme-socialdiv');
+
+    let cardBody = document.querySelector('.card-body');
+    cardBody.classList.toggle('themeCardBody')
 }
