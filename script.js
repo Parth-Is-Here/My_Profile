@@ -22,5 +22,5 @@ function changeMode(){
     socialDiv.classList.toggle('theme-socialdiv');
 
     let cardBody = document.querySelector('.card-body');
-    cardBody.classList.toggle('themeCardBody')
+    cardBody.classList.toggle('themeCardBody');
 }
