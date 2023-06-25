@@ -17,10 +17,14 @@ function changeMode(){
 
     let footerBgTheme = document.querySelector('.Section-5');
     footerBgTheme.classList.toggle('theme-part-sec-5');
+    footerBgTheme.classList.toggle('text-light');
 
     let socialDiv = document.querySelector('.social-div');
     socialDiv.classList.toggle('theme-socialdiv');
 
     let cardBody = document.querySelector('.card-body');
     cardBody.classList.toggle('themeCardBody');
+
+    // let lightBtn = document.querySelector('.light-button');
+    // lightBtn.classList.toggle('bgColor');
 }

@@ -2,7 +2,7 @@
     background-color: rgb(255, 255, 255);
 }
 .map-light {
-    background-color: white;
+    background-color: #2e6e4a;
 }
 .profilee {
     background-image:url(Images/colorful.jpg);
@@ -14,14 +14,19 @@
     opacity: 0;
 }
 .theme-part-sec-3 {
-    background-color:rgb(210, 224, 255);
+    background-color:cornsilk ;
 }
 .theme-part-sec-5 {
-    background-color: rgb(210, 224, 255);
+    background-color: #031d36;
 }
 .theme-socialdiv {
     background-color: rgb(149, 183, 255);
 }
+/* .bgColor {
+    background-color:white ;
+} */
 /* .themeCardBody {
     background-color: rgb(149, 183, 255);
 } */
+
+/* #031d36 */
